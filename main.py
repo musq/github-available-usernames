@@ -4,7 +4,7 @@
 # - using dictionary words
 # - using dynamically generated pronounceable words
 
-# Author: Ashish Ranjan (https://github.com/ashish28ranjan)
+# Author: Ashish Ranjan (https://github.com/musq)
 # License: GNU GPLv3, or later version
 
 
