@@ -17,6 +17,18 @@ It works by iterating over a list of words which fit the specified parameters an
 1. Run `pipenv install` to install dependencies
 1. Run `python main.py` to begin extraction
 
+### Issues
+
+If you face issues with *nltk*, please get a shell of your virtualenv's python by typing `python` and then follow these ---
+
+```
+import nltk
+nltk.download('words')
+nltk.download('cumdict')
+```
+
+You'll need to do this only once.
+
 ### Configuration
 
 There are two modes to choose candidates for potential usernames. Check the `main()` function in `main.py`.
